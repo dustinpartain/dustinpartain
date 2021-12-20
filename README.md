@@ -35,13 +35,16 @@
     <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
 </p>
   
-## WIP 
 
-### Projects
+<p align="right">
+  <a href="https://github.com/dustinpartain/dustinpartain">
+    <img src="https://komarev.com/ghpvc/?username=dustinpartain" alt="page views" />
+  </a>
+  <a href="https://github.com/dustinpartain?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/dustinpartain?color=green&logo=github">
+  </a>
 
 
-
-[![Visits Badge](https://badges.pufler.dev/visits/dustinpartain/dustinpartain)](https://badges.pufler.dev/visits/dustinpartain/dustinpartain)
   
 <!--
 **dustinpartain/dustinpartain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -98,6 +101,16 @@ Asterisks
 ___
 
 Underscores
+
+
+ Markup : - [ ] An uncompleted task
+          - [x] A completed task
+
+
+Markup : <details>
+           <summary>Title 1</summary>
+           <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+         </details>
 
 
 -->
