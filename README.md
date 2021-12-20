@@ -3,6 +3,7 @@
   * 👋 I'm Dustin
   * 🎖️ I'm a Marine veteran
   * 👨‍🎓 Goizueta BBA | Fisher MBA
+  * 🔭 I’m currently helping to launch and scale a health/wellness startup
 
 
 ### Languages
@@ -13,8 +14,10 @@
 
 ### Technologies
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau)
 
 ### Frameworks and libraries
+
 <p>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
@@ -32,7 +35,8 @@
     <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
 </p>
   
-  
+## WIP 
+
 ### Projects
 
 
