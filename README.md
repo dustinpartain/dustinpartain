@@ -11,6 +11,11 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3&logoColor=1572B6)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)
+![C#](https://img.shields.io/badge/-C%23-000?&logo=C%20Sharp)
 
 ### Technologies
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
