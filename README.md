@@ -7,7 +7,6 @@
 
 
 ### Languages
-
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
@@ -22,7 +21,6 @@
 ![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau)
 
 ### Frameworks and libraries
-
 <p>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
@@ -32,25 +30,40 @@
 <p>
   
 ### Databases and cloud hosting
-  
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
     <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
 </p>
-  
 
-<p align="right">
-  <a href="https://github.com/dustinpartain/dustinpartain">
+### Things I use
+<b>Search Utility: </b> Listary (don't even bother using File Explorer) <br>
+<b>Laptop: </b> HP Spectre x360 <br>
+<b>Monitor: </b> AOC - CU32V3 - Super-Curved <br>
+<b>OS:</b> Ubuntu 23.## & Windows 11 <br>
+<b>Terminal: </b> PowerShell <br>
+<b>Browser: </b> Microsoft Edge Browser + Google's Search Engine <br>
+<b>Code Editor:</b> VSCode <br>
+<b>IDE: </b> JetBrains & Visual Studio (but I often find myself using VSCode for EVERYTHING <br><br>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=dustinpartain">
     <img src="https://komarev.com/ghpvc/?username=dustinpartain" alt="page views" />
   </a>
   <a href="https://github.com/dustinpartain?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/dustinpartain?color=green&logo=github">
   </a>
+</p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/dustinpartain">
+    <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>     
+	      
 
-  
+	      
 <!--
 **dustinpartain/dustinpartain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
