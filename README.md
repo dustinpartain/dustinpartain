@@ -39,7 +39,7 @@
 
 ### Things I use
 <b>Search Utility: </b> Listary (don't even bother using File Explorer) <br>
-<b>Laptop: </b> HP Spectre x360 <br>
+<b>Laptop: </b> Microsoft Surface Laptop Studio 2 <br>
 <b>Monitor: </b> AOC - CU32V3 - Super-Curved <br>
 <b>OS:</b> Ubuntu 23.## & Windows 11 <br>
 <b>Terminal: </b> PowerShell <br>
